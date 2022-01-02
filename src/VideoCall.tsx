@@ -14,7 +14,7 @@ const useMicrophoneAndCameraTracks = createMicrophoneAndCameraTracks();
 
 const appId: string = "126c48d9a6154587a0ba05fa08a3d4ba";
 const token: string | null =
-  "006126c48d9a6154587a0ba05fa08a3d4baIABBTvAQBB7wmem8rPFwW9/XrFhoxWyYYzTtEmbAJDbCtsEDrq4AAAAAEAAAO0SYNVenYQEAAQA0V6dh";
+  "006126c48d9a6154587a0ba05fa08a3d4baIABxlBRta69byInub0WJZXGami2bNR1HN38w1aBdG8fuwcEDrq4AAAAAEACu7KwLEAvTYQEAAQDxCdNh";
 
 const VideoCall = (props: {
   setInCall: React.Dispatch<React.SetStateAction<boolean>>;
